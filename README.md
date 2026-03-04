@@ -4,7 +4,7 @@
   
   # 👋 Guilherme Silva Rocha
   
-  ### 🚀 Systems Analyst & Developer | AI & Automation Enthusiast
+  ### 🚀 Software Engineer | AI & Automation Enthusiast
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-rocha-39638b274)
   [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
