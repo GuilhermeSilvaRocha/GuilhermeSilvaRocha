@@ -1,32 +1,40 @@
-# 👋 Hello! Welcome to my GitHub!
+# Guilherme Silva Rocha
 
-![GitHub followers](https://img.shields.io/github/followers/GuilhermeSilvaRocha?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/GuilhermeSilvaRocha?style=social)  
+## Professional Bio
 
----
+Hello! I'm Guilherme Silva Rocha, and I am passionate about using technology to create innovative solutions. With a strong background in Systems Analysis and Development, I specialize in developing applications that harness the power of AI and automation.
 
-## 💻 About Me  
-🎓 **Student of Systems Analysis and Development** at **Universidade São Judas Tadeu**.  
-🔧 Currently, I am focused on **Java and Python** for **automation and microservices**.  
+## Skills
 
-## ⚙️ What am I looking for?  
-My goal is to develop tools that make technology more accessible, helping **people with special needs and the elderly** to have more autonomy in their daily lives.  
+- **Programming Languages**: Python
+- **Technologies**: OpenCV, Raspberry PI, Arduino
+- **Areas of Expertise**: AI, Automation, Robotics, Mechatronics
 
-## 🚀 Technologies and Tools  
-📌 **Languages**:  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+## Interests
 
-📌 **Tools & Version Control**:  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+I have a keen interest in Robotics and Mechatronics, striving to push the boundaries of what is possible with technology.
 
-## 🔍 Always learning...  
-Exploring new technologies and seeking ways to enhance my skills. Feel free to **explore my repositories and contribute!**  
+## Connect with Me
 
-📫 **How to reach me?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-rocha-39638b274)  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guilhermesilvarocha).  
 
----
+![Profile Background](https://via.placeholder.com/600x100/0000FF/FFFFFF?text=Guilherme+Silva+Rocha)  
 
-🚀 **Let's build something amazing together!**
+---  
+
+<style>
+  body {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  h1, h2 {
+    color: #0000FF;  /* Blue */
+  }
+  p {
+    color: #FF0000;  /* Red */
+  }
+  a {
+    color: #800080;  /* Purple */
+  }
+</style>
+
