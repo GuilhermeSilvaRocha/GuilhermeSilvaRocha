@@ -1,40 +1,24 @@
-# Guilherme Silva Rocha
+# 👋 Hi there! I'm Guilherme Silva Rocha
 
-## Professional Bio
+Welcome to my GitHub profile! Here's a bit about me:
 
-Hello! I'm Guilherme Silva Rocha, and I am passionate about using technology to create innovative solutions. With a strong background in Systems Analysis and Development, I specialize in developing applications that harness the power of AI and automation.
+![My Profile](https://img.shields.io/badge/Name-Guilherme%20Silva%20Rocha-blue)
+![GitHub](https://img.shields.io/github/followers/GuilhermeSilvaRocha?style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSilvaRocha&show_icons=true&theme=radical)
 
-## Skills
+## 🚀 About Me
 
-- **Programming Languages**: Python
-- **Technologies**: OpenCV, Raspberry PI, Arduino
-- **Areas of Expertise**: AI, Automation, Robotics, Mechatronics
+- 🔭 I’m currently working on [Your Project Name]
+- 🌱 I’m currently learning [Your Learning Topics]
+- 💬 Ask me about [Your Expert Areas]
+- 📫 How to reach me: [Your Contact Information]
+- ⚡ Fun fact: [Something Fun About You]
 
-## Interests
+## 🛠️ Technologies & Tools
 
-I have a keen interest in Robotics and Mechatronics, striving to push the boundaries of what is possible with technology.
+- Languages: ![Python](https://img.shields.io/badge/-Python-red) ![JavaScript](https://img.shields.io/badge/-JavaScript-purple) ![HTML](https://img.shields.io/badge/-HTML-blue)
+- Frameworks: ![React](https://img.shields.io/badge/-React-red) ![Django](https://img.shields.io/badge/-Django-purple)
 
-## Connect with Me
+## 📈 My Stats
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guilhermesilvarocha).  
-
-![Profile Background](https://via.placeholder.com/600x100/0000FF/FFFFFF?text=Guilherme+Silva+Rocha)  
-
----  
-
-<style>
-  body {
-    background-color: #f2f2f2;
-    color: #333;
-  }
-  h1, h2 {
-    color: #0000FF;  /* Blue */
-  }
-  p {
-    color: #FF0000;  /* Red */
-  }
-  a {
-    color: #800080;  /* Purple */
-  }
-</style>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSilvaRocha&theme=radical)
