@@ -25,10 +25,12 @@ I'm a **graduated technologist in Systems Analysis and Development** with a pass
   
   ### 🐍 Programming Languages
   ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+  ### 🎲 Data-Base
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
   
   ### 🛠️ Tools & Technologies
   - **Computer Vision:** OpenCV
-  - **Microcontrollers:** Raspberry PI, Arduino
+  - **Microcontrollers:** Raspberry PI, Arduino, ESP32
   - **Focus Areas:** AI, Automation, IoT
   
 </div>
@@ -82,9 +84,5 @@ I'm a **graduated technologist in Systems Analysis and Development** with a pass
 <div align="center">
   
   ### 💬 "Turning ideas into intelligent machines, one line of code at a time!"
-  
-  ![Blue](https://img.shields.io/badge/-%200033ff-blue?style=for-the-badge)
-  ![Red](https://img.shields.io/badge/-%20FF0000-red?style=for-the-badge)
-  ![Purple](https://img.shields.io/badge/-%207B2CBF-purple?style=for-the-badge)
   
 </div>
