@@ -25,8 +25,13 @@ I'm a **graduated technologist in Systems Analysis and Development** with a pass
   
   ### 🐍 Programming Languages
   ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-  ### 🎲 Data-Base
+  ### 🎲 Data-Base & DevOps
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+  ### 💻IDE's
+  ![PyCharm](https://img.shields.io/badge/PyCharm-%2321D789.svg?style=flat&logo=pycharm&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   
   ### 🛠️ Tools & Technologies
   - **Computer Vision:** OpenCV
