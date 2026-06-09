@@ -92,7 +92,11 @@ I'm a **graduated technologist in Systems Analysis and Development** with a pass
   
 </div>
 
+
 <div align="center">
 🇧🇷
+</div>
+
+<div align="center">
 🟩🟦🟨
 </div>
