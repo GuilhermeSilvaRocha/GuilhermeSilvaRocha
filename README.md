@@ -91,3 +91,8 @@ I'm a **graduated technologist in Systems Analysis and Development** with a pass
   ### 💬 "Turning ideas into intelligent machines, one line of code at a time!"
   
 </div>
+
+<div align="center">
+🇧🇷
+🟩🟦🟨
+</div>
