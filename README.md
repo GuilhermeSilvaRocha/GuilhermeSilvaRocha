@@ -65,22 +65,11 @@ I'm a **graduated technologist in Systems Analysis and Development** with a pass
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=GuilhermeSilvaRocha&color=0033ff&style=flat-square)
-  
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-rocha-39638b274)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeSilvaRocha)
   
 </div>
 
